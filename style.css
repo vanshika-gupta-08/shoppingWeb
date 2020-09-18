@@ -1,0 +1,30 @@
+
+
+.banner_image
+{padding-bottom:50px;
+padding-top:75px;
+	color:#f8f8f8;
+	text-align:center;
+	background-size:cover;
+	background-image:url("/storage/emulated/0/Audio/intro-bg_1.jpg");	
+}
+.banner_content{
+	position:relative;
+	padding-top:6%;
+	margin-top:12%;
+		padding-bottom:6%;
+			margin-bottom:12%;
+	background-color :rgba(0,0,0,0.7);
+		max-width:660px;
+}
+   
+
+.foot{
+	background-color:#101010;
+		color:#9d9d9d;
+			width:100%;
+			padding :10px 0px;
+			bottom:0;
+			
+			text-align:center;
+}
